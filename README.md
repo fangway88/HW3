@@ -1,2 +1,1 @@
-HW3
-===
+Total Hours Spent: 5
